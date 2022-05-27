@@ -1,5 +1,5 @@
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=209C30&lines=log(%22Welcome+To+My+GITHUB%22))](https://git.io/typing-svg)</h1>
+>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=209C30&lines=log(%22Welcome+To+My+GITHUB%22))](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Mahmoud Ayman</h1>
 <h3 align="left">A junior software engineer, passionate about mobile programming with a year of experience in mobile development (dart, flutter) I worked as a flutter developer in a marketing company, which increased my experience in dealing with APIs, databases (SQL & noSQL), firebase and creating responsive designs GetX, Bloc statemangement, and publish apps on the Play Store. I have experience in dealing with clients and analyzing their requirements, familiar with the software development life cycle, agile and plan driven concepts and methods, I also have experience designing and reading various UML Diagrams.</h3>
 

@@ -10,9 +10,9 @@ A Mid-level Flutter Developer with over 3 years of hands-on experience in mobile
 <img src="https://komarev.com/ghpvc/?username=mahmoudayman55&label=Profile%20views&color=00b3ff&style=flat" alt="mahmoudayman55" />
 </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/mahmoudayman55/ecommerce)
-- 🌱 I’m improving my skills in **Flutter, Dart, Clean Architecture, REST APIs**
-- 💬 Ask me about **Flutter, Dart, Mobile Development, OOP**
+- 🔭 I’m currently working on **Click Booking, Diet Picnic, and DesiUKConnect** — cross-platform Flutter apps with REST API integration, local notifications, MQTT, and Stripe Payments.
+- 🌱 I’m continuously improving my skills in **Flutter, Dart, Clean Architecture, REST APIs, and Mobile App Development Best Practices**.
+- 💬 Ask me about **Flutter, Dart, Mobile Development, OOP, Multi-role Apps, and Payment Integration**.
 - 📫 Reach me at **mahmoudayman9112000@gmail.com**
 - 📄 Check my experience [Resume / Docs](https://docs.google.com/document/d/1M6rLj6cw-5lLZndGFur34ASilPbJUjpqUHwzOLCJ6uE/edit?usp=sharing)
 
